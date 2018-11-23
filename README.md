@@ -1,5 +1,11 @@
-# banco
+banco
+=====
 Statistical Analysis of Loto Banco Drawings
 
-Requires:
+Requires
+--------
 python dateutil library
+
+Usage
+-----
+\# python loto.py
