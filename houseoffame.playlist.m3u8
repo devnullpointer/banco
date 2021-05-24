@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,Episode 74
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210517.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 80
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210524.mp4/chunklist.m3u8
 
-#EXTINF:-1,Episode 75
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210518.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 81
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210525.mp4/chunklist.m3u8
 
-#EXTINF:-1,Episode 76
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210519.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 82
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210526.mp4/chunklist.m3u8
 
-#EXTINF:-1,Episode 77
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210520zx.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 83
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210527.mp4/chunklist.m3u8
 
-#EXTINF:-1,Episode 78
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210521.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 84
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/fame20210528.mp4/chunklist.m3u8
 
-#EXTINF:-1,Episode 79 (Live)
-https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/famelive20210521.mp4/chunklist.m3u8
+#EXTINF:-1,Episode 85 (Finale Live)
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/House_of_Fame/famelive20210528.mp4/chunklist.m3u8
