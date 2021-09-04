@@ -14,3 +14,6 @@ https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/
 
 #EXTINF:-1,Episode 5
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20210902z.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 6 - Live
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother_live20210903.mp4/chunklist.m3u8
