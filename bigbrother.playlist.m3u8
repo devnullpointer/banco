@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 17
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother20210920zz.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 16 - Live
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother_live20210917.mp4/chunklist.m3u8
 
