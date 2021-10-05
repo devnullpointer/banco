@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 28
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother20211005cv.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 27
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother20211004xc.mp4/chunklist.m3u8
 
