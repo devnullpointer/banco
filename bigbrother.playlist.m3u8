@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 43
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211026xx.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 42
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211025.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 41 - Live
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother20211022ab.mp4/chunklist.m3u8
 
