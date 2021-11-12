@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 54
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211110cx.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 53
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211109.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 52
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211108xc.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 51 - Live
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother_live20211105.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 50
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211104.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 49
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211103.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 48
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211102.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 47
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211101xx.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 46 - Live
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211029.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 45
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/bigbrother20211028xc.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 44
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211027.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 43
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/Brother/brother20211026xx.mp4/chunklist.m3u8
 
