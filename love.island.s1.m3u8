@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 16
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/loveisland20221020.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 15
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/loveisland20221019.mp4/chunklist.m3u8
 
