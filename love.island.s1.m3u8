@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 20
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/loveisland20221026.mp4/chunklist.m3u8
+
+#EXTINF:-1,Episode 19
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/love_island20221025aa.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 18
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/loveisland20221022.mp4/chunklist.m3u8
 
