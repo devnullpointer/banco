@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 27
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/love_island20221104zz.mp4/chunklist.m3u8
+
 #EXTINF:-1,Episode 26
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/GrCyTargeting/Gr/LoveIsland/love_island20221103x.mp4/chunklist.m3u8
 
