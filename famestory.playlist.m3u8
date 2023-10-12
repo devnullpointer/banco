@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1,Episode 10
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_9t0uw6lu/v/1/ev/4/flavorId/1_72uqgy79/name/a.mp4/index.m3u8
+
+#EXTINF:-1,Episode 9
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_r0ofwer5/v/1/ev/4/flavorId/1_n4bod5ps/name/a.mp4/index.m3u8
+
+#EXTINF:-1,Episode 8
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_3nhhycqh/v/1/ev/4/flavorId/1_qv28zfc9/name/a.mp4/index.m3u8
+
+#EXTINF:-1,Episode 7
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_beyu6gvx/v/1/ev/4/flavorId/1_zmj6zzwl/name/a.mp4/index.m3u8
+
+#EXTINF:-1,Episode 6 - Live
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_6cnt1qjm/v/1/ev/4/flavorId/1_r8tvgh5u/name/a.mp4/index.m3u8
+
 #EXTINF:-1,Episode 5
 https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_brnt5min/v/1/ev/4/flavorId/1_2dtmg2uk/name/a.mp4/index.m3u8
 
